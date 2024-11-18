@@ -1,0 +1,59 @@
+
+packages:
+# Core system packages
+  - base
+  - base-devel
+  - linux
+  - linux-firmware
+  - linux-headers
+
+# Boot and system management
+  - grub
+  - efibootmgr
+  - sudo
+
+# Networking tools
+  - inetutils
+  - net-tools
+  - networkmanager
+
+# Bluetooth support
+  - bluez
+  - bluez-utils
+
+# Filesystem utilities
+  - dosfstools
+  - mtools
+  - parted
+  - pciutils
+  - usbutils
+
+# Compression and archiving tools
+  - gzip
+  - tar
+  - p7zip
+  - unzip
+  - zip
+
+# Printing support
+  - cups
+  - cups-pdf
+
+# Audio and multimedia
+  - pipewire
+  - pipewire-pulse
+  - pipewire-jack
+  - wireplumber
+
+# Text editors
+  - nano
+  - vim
+
+# System monitoring and tools
+  - gtop
+  - less
+
+# Documentation and manuals
+  - man-db
+  - man-pages
+  - texinfo

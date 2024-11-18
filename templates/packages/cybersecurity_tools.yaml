@@ -1,0 +1,29 @@
+
+packages:
+# Networking tools
+  - aircrack-ng
+  - macchanger
+  - netcat
+  - nmap
+  - tcpdump
+
+# Exploitation and Penetration Testing
+  - exploitdb
+  - hashcat
+  - hydra
+  - john
+  - metasploit
+  - sqlmap
+
+# Forensics and Reverse Engineering
+  - binwalk
+  - foremost
+  - radare2
+  - sleuthkit
+  - strace
+
+# Web Application Testing
+  - gobuster
+  - nikto
+  - wpscan
+
